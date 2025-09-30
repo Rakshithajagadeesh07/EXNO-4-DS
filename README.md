@@ -185,4 +185,5 @@ print("\nClassification Report:\n", classification_report(y_test, y_pred))
 
 
 # RESULT:
-      Thus, the Feature selection and Feature scaling has been used on the given dataset and executed successfully.
+     
+Thus, the Feature selection and Feature scaling has been used on the given dataset and executed successfully.
